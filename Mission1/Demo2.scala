@@ -29,4 +29,4 @@ object Demo2 extends SimpleSwingApplication{
     timer.tick += { _ => frame.repaint } 
     Timer.runAll
   }
-}
+} 
