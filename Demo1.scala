@@ -1,3 +1,8 @@
+import swing._
+import swing.event._
+import rescala.commons.time._
+import scala.swing.Swing
+
 object Demo1 extends SimpleSwingApplication{
   
   val timer = Timer(100)
